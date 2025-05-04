@@ -1,4 +1,4 @@
-# 🧩 SAAS Microservices GraphQL – Projet RH & Assurance Vie
+# Projet RH & Assurance Vie
 
 Ce projet est une application de démonstration construite autour d'un scénario RH : un conseiller RH peut modifier les informations du bénéficiaire de la police d'assurance-vie d'un employé, après validation de son identité. L'application est conçue en architecture **microservices** et utilise **GraphQL** pour les communications entre les services.
 
