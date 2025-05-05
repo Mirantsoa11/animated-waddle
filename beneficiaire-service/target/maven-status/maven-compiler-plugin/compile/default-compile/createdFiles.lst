@@ -1,0 +1,11 @@
+com\entreprise\assurance\beneficiaireservice\repository\BeneficiaireRepository.class
+com\entreprise\assurance\beneficiaireservice\security\JwtAuthFilter.class
+com\entreprise\assurance\beneficiaireservice\security\SecurityConfig.class
+com\entreprise\assurance\beneficiaireservice\security\TenantContext.class
+com\entreprise\assurance\beneficiaireservice\event\ChangeEvent.class
+com\entreprise\assurance\beneficiaireservice\BeneficiaireServiceApplication.class
+com\entreprise\assurance\beneficiaireservice\controller\BeneficiaireController.class
+com\entreprise\assurance\beneficiaireservice\security\JwtUtils.class
+com\entreprise\assurance\beneficiaireservice\model\Beneficiaire.class
+com\entreprise\assurance\beneficiaireservice\dto\ChangeInput.class
+com\entreprise\assurance\beneficiaireservice\dto\ChangeDTO.class

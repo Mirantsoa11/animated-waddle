@@ -1,0 +1,8 @@
+com\entreprise\assurance\notificationservice\controller\NotifyController.class
+com\entreprise\assurance\notificationservice\service\MailService.class
+com\entreprise\assurance\notificationservice\listener\NotificationListener.class
+com\entreprise\assurance\notificationservice\NotificationServiceApplication.class
+com\entreprise\assurance\notificationservice\model\ChangeDTO.class
+com\entreprise\assurance\notificationservice\event\ChangeEvent.class
+com\entreprise\assurance\notificationservice\config\RabbitConfig.class
+com\entreprise\assurance\notificationservice\service\AssuranceService.class

@@ -1,0 +1,8 @@
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\listener\NotificationListener.java
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\service\AssuranceService.java
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\controller\NotifyController.java
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\model\ChangeDTO.java
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\NotificationServiceApplication.java
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\service\MailService.java
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\config\RabbitConfig.java
+C:\xampp\htdocs\projet SOA\notification-service\src\main\java\com\entreprise\assurance\notificationservice\event\ChangeEvent.java

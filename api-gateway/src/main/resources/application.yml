@@ -1,0 +1,27 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: identity
+          uri: http://localhost:8081
+          predicates:
+            - Path=/auth/**,/entreprise/**
+        - id: employe
+          uri: http://localhost:8082
+          predicates:
+            - Path=/employe/**
+        - id: beneficiaire
+          uri: http://localhost:8085
+          predicates:
+            - Path=/beneficiaires/**
+        - id: notification
+          uri: http://localhost:8083
+          predicates:
+            - Path=/notify/**
+  security:
+    user:
+      name: admin
+      password: admin123
+
+server:
+  port: 8080

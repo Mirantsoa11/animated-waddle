@@ -1,0 +1,11 @@
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\security\JwtAuthFilter.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\BeneficiaireServiceApplication.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\security\JwtUtils.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\controller\BeneficiaireController.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\dto\ChangeDTO.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\event\ChangeEvent.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\repository\BeneficiaireRepository.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\security\SecurityConfig.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\dto\ChangeInput.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\model\Beneficiaire.java
+C:\xampp\htdocs\projet SOA\beneficiaire-service\src\main\java\com\entreprise\assurance\beneficiaireservice\security\TenantContext.java

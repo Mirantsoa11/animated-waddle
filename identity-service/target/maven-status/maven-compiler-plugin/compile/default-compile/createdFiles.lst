@@ -1,0 +1,6 @@
+com\entreprise\assurance\identityservice\IdentityServiceApplication.class
+com\entreprise\assurance\identityservice\model\Entreprise.class
+com\entreprise\assurance\identityservice\model\Conseiller.class
+com\entreprise\assurance\identityservice\repository\ConseillerRepository.class
+com\entreprise\assurance\identityservice\controller\AuthController.class
+com\entreprise\assurance\identityservice\security\JwtUtils.class

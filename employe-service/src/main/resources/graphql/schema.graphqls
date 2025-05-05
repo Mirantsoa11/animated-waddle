@@ -1,0 +1,27 @@
+type Query {
+    employe(id: ID!): Employe
+    employes: [Employe!]!
+}
+
+type Mutation {
+    createEmploye(input: EmployeInput!): Employe!
+    updateEmploye(id: ID!, input: EmployeInput!): Employe
+    deleteEmploye(id: ID!): Boolean!
+}
+
+type Employe {
+    id: ID!
+    nom: String!
+    numeroEmploye: String!
+    adresse: String!
+    nas: String!
+    entrepriseId: Int!
+}
+
+input EmployeInput {
+    nom: String!
+    numeroEmploye: String!
+    adresse: String!
+    nas: String!
+    entrepriseId: Int!
+} 

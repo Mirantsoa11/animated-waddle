@@ -1,0 +1,6 @@
+com\entreprise\assurance\apigateway\bff\BffGraphqlController.class
+com\entreprise\assurance\apigateway\bff\ChangeBeneficiaireInput.class
+com\entreprise\assurance\apigateway\bff\ChangeResult.class
+com\entreprise\assurance\apigateway\config\SecurityConfig.class
+com\entreprise\assurance\apigateway\ApiGatewayApplication.class
+com\entreprise\assurance\apigateway\bff\Employe.class

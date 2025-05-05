@@ -1,0 +1,38 @@
+type Employe {
+  id: ID!
+  nom: String!
+  numeroEmploye: String!
+  adresse: String!
+  nas: String!
+  entrepriseId: ID!
+}
+
+type ChangeResult {
+  employeId: ID!
+  ancienNom: String
+  ancienPrenom: String
+  nouveauNom: String!
+  nouveauPrenom: String!
+  dateModification: String!
+}
+
+input ChangeBeneficiaireInput {
+  employeId: ID!
+  nom: String!
+  prenom: String!
+  lienParente: String!
+  nomEmploye: String!
+  numeroEmploye: String!
+  adresse: String!
+  nas: String!
+}
+
+type Query {
+  employe(id: ID!): Employe
+  employes: [Employe!]!
+  changeResult(employeId: ID!): ChangeResult
+}
+
+type Mutation {
+  changeBeneficiaire(input: ChangeBeneficiaireInput!): ChangeResult
+}
