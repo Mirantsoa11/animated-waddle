@@ -22,8 +22,6 @@ Ce projet est une application de démonstration construite autour d'un scénario
 - ✅ Spring Boot
 - ✅ GraphQL Java / Spring GraphQL
 - ✅ Maven
-- ✅ PostgreSQL (ou tout autre SGBD relationnel)
-- ✅ Docker (optionnel)
 - ✅ Lombok
 - ✅ Spring Security (optionnel)
 - ✅ Mail Sender (Spring Boot Starter Mail)
